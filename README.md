@@ -10,4 +10,4 @@ API para gerenciamento de pessoas de uma universidade, desenvolvida como ativida
 - Lombok
 
 ### Desenvolvido por:
-**Marlon Valadão**
+**Marlon Valadão - Matricula: 01785018**
